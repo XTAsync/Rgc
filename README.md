@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" alt="Rgc logo" width="180" />
+</p>
+
 # Golden Compass — Archived Project Bundle
 
 This repository stores a packaged Golden Compass project archive: `golden-compass-fixed.zip`.
